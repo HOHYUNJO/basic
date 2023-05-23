@@ -1,1 +1,1 @@
-name : 너구리
+name : rascal
